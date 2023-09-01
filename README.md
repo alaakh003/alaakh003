@@ -42,7 +42,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https:www.linkedin.com/in/alaaahmad003)
-[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alaa_ahmad003?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alaa_ahmad003?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
 
 
 

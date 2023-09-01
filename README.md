@@ -28,8 +28,6 @@ https://www.linkedin.com/in/%D8%A7%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D9%88%D8
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-
 
 
 

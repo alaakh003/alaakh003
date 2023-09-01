@@ -17,13 +17,12 @@
 
 
 ### Connect with Me :
-<a href="https://linkedin.com/in/alaa ahmad" target="_blank"><img src=".linkedin.com/in/
-الاء-الخوالدة-2a596b268
-"
+
+https://www.linkedin.com/in/%D8%A7%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D9%84%D8%AF%D8%A9-2a596b268
 
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;

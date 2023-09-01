@@ -40,10 +40,9 @@
 
 ### Connect with Me :
 
-https://www.linkedin.com/in/%D8%A7%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D9%84%D8%AF%D8%A9-2a596b268
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https:www.linkedin.com/in/alaaahmad003)
 
-
-### 🛠 &nbsp;Tech Stack
 
 
 ![csharp](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;

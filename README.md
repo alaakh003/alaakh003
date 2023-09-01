@@ -24,7 +24,7 @@ https://www.linkedin.com/in/%D8%A7%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D9%88%D8
 ### 🛠 &nbsp;Tech Stack
 
 
-![C sharp](https://img.shields.io/badge/-C sharp-05122A?style=flat&logo=C sharp)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
